@@ -25,21 +25,48 @@ python restaurant_app.py
 
 ---
 
-📈 Stock Market App
+# 📈 Stock Market App
 - An interactive Stock Market Simulation App where users can explore live stock data, manage a portfolio, and simulate market behavior.
 
-🔹 Features
+# 🔹 Features
 - 🧾 Real-time stock listing with pricing and status
 
 - 👤 Portfolio viewer to track your virtual assets
 
 - 🔁 "Stimulate Market" option to mimic market fluctuations
 
-💻 Tech Stack
+# 💻 Tech Stack
 Python 3
 
 - Tkinter
 
-▶️ How to Run
+# ▶️ How to Run
 bash
 python stock_app.py
+
+---
+
+#🪨 Rock Paper Scissors Game 🎮
+- A fun and interactive Rock Paper Scissors game built using Python. This project offers a playful environment with sound effects, a simple interface, and smooth user interaction, making it an enjoyable experience for all age groups.
+
+# 🔹 Features
+- 🎲 Randomized computer moves
+
+- 🧠 Simple game logic with clear outcomes
+
+- 🔊 Integrated sound effects for added engagement
+
+- 🕹️ User-friendly interface via the console
+
+- 📈 Score tracking for each round
+
+# 🔧 Technologies Used
+- Python 3
+
+- random module
+
+- playsound & pygame for audio 
+
+#▶️ How to Run
+bash
+python main.py
